@@ -1,0 +1,26 @@
+{
+  "repo": "catia-suite",
+  "product": "CATIA Suite",
+  "kind": "cad",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part3",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "engineering-cad",
+  "topics": [
+    "catia-suite",
+    "catia-desktop",
+    "catia-windows",
+    "2d-drafting",
+    "3d-modeling",
+    "technical-drawings",
+    "parametric-design",
+    "engineering-desktop",
+    "architecture-drafting",
+    "mechanical-design",
+    "desktop-cad",
+    "windows-cad",
+    "blueprint-design"
+  ],
+  "site": "zentool.art"
+}
